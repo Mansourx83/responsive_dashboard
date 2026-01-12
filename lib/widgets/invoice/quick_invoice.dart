@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:responsive_dashboard/widgets/custom_background_container.dart';
+import 'package:responsive_dashboard/widgets/general/custom_background_container.dart';
 import 'package:responsive_dashboard/widgets/invoice/latest_transction.dart';
 import 'package:responsive_dashboard/widgets/invoice/quick_invoice_form.dart';
 import 'package:responsive_dashboard/widgets/invoice/quick_invoice_header.dart';
